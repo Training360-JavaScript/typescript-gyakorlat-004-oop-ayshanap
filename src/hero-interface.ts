@@ -20,7 +20,7 @@ export interface IHero {
 export interface IHuman extends IHero {
     sex: string;
     age: number;
-    health: number
+    health: number;
 }
 
 /**
